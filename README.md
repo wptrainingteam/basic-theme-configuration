@@ -43,7 +43,7 @@ A bulleted list of any handy tips or information for the instructor.
 
 ### Getting into the Appearance Area of the Menu
 
-<span style="font-weight: 400">Go to Appearance > Themes and choose the Twenty Sixteen theme</span>. [![](https://make.wordpress.org/training/files/2017/01/one-1024x407.png)](https://make.wordpress.org/training/files/2017/01/one.png) <span style="font-weight: 400">Click on Customize or go to Appearance > Customize in the menu</span> [![](https://make.wordpress.org/training/files/2017/01/two-1-1024x743.png)](https://make.wordpress.org/training/files/2017/01/two-1.png) Now you are ready to modify the theme
+<span style="font-weight: 400">Go to Appearance > Themes and choose the Twenty Sixteen theme</span>. [![](images/one.png)](images/one.png) <span style="font-weight: 400">Click on Customize or go to Appearance > Customize in the menu</span> [![](https://make.wordpress.org/training/files/2017/01/two-1-1024x743.png)](https://make.wordpress.org/training/files/2017/01/two-1.png) Now you are ready to modify the theme
 
 ### Modify Site Identity
 
