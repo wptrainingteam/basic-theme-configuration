@@ -44,15 +44,15 @@ A bulleted list of any handy tips or information for the instructor.
 ### Getting into the Appearance Area of the Menu
 
 **Go to Appearance > Themes and choose the Twenty Sixteen theme.**
-[![](https://make.wordpress.org/training/files/2017/01/one-1024x407.png)](https://make.wordpress.org/training/files/2017/01/one.png)
+[![](images/one.png)](images/one.png)
 **Click on Customize or go to Appearance > Customize in the menu**
-[![](https://make.wordpress.org/training/files/2017/01/two-1-1024x743.png)](https://make.wordpress.org/training/files/2017/01/two-1.png)
+[![](images/two-1.png)](images/two-1.png)
 Now you are ready to modify the theme
 
 ### Modify Site Identity
 
 **Your first option, under the choice of theme is Site Identity.**
-[![](https://make.wordpress.org/training/files/2017/01/three-1024x628.png)](https://make.wordpress.org/training/files/2017/01/three.png)
+[![](images/three.png)](images/three.png)
 (the Site Title and Tagline are also located in the Settings > General area on the main menu on the left) **This is the place where you can upload your logo and title your site.**
 [![](https://make.wordpress.org/training/files/2017/01/four-1024x628.png)](https://make.wordpress.org/training/files/2017/01/four.png)
 Then you can upload the files via the WP Add Media dialog sequence.
