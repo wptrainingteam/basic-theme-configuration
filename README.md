@@ -44,7 +44,7 @@ A bulleted list of any handy tips or information for the instructor.
 ### Getting into the Appearance Area of the Menu
 
 **Go to Appearance > Themes and choose the Twenty Sixteen theme.**
-[![](https://make.wordpress.org/training/files/2017/01/one-1024x407.png)](https://make.wordpress.org/training/files/2017/01/one.png)
+[![](images/one.png)](images/one.png)
 **Click on Customize or go to Appearance > Customize in the menu**
 [![](https://make.wordpress.org/training/files/2017/01/two-1-1024x743.png)](https://make.wordpress.org/training/files/2017/01/two-1.png)
 Now you are ready to modify the theme
