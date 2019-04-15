@@ -52,7 +52,7 @@ Now you are ready to modify the theme
 ### Modify Site Identity
 
 **Your first option, under the choice of theme is Site Identity.**
-[![](https://make.wordpress.org/training/files/2017/01/three-1024x628.png)](https://make.wordpress.org/training/files/2017/01/three.png)
+[![](images/three.png)](images/three.png)
 (the Site Title and Tagline are also located in the Settings > General area on the main menu on the left) **This is the place where you can upload your logo and title your site.**
 [![](https://make.wordpress.org/training/files/2017/01/four-1024x628.png)](https://make.wordpress.org/training/files/2017/01/four.png)
 Then you can upload the files via the WP Add Media dialog sequence.
