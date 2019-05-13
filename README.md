@@ -117,3 +117,12 @@ A short quiz for students to evaluate their retention of the material presented.
 4.  Option
 
 **Answer:** 3\. Correct answer
+
+**How to rename theme name to make it custom theme? **
+
+1.  Rename Theme folder name
+2.  Replace theme name in style.css file
+3.  Both
+
+
+**Answer:** 3\. Both
