@@ -126,3 +126,12 @@ A short quiz for students to evaluate their retention of the material presented.
 
 
 **Answer:** 3\. Both
+
+**Which files are required to configure custom theme?**
+
+1.  style.css and page.php
+2.  style.css and index.php
+3.  index.php and page.php
+4.  single.php and page.php
+
+**Answer:** 2\. style.css and index.php
